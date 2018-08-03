@@ -2,6 +2,3 @@
 Git is free software.
 
 厉害了。
-
-
-这是在dev分支上添加的内容
